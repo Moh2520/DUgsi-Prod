@@ -13,7 +13,7 @@ export default function Resume() {
     <div className={darkMode ? 'dark' : ''}>
       <Head>
         <meta name="description" content="My resume" />
-        <title>Resume | My Website</title>
+        <title>Resume For me | My Website</title>
       </Head>
       <main className=" bg-white px-10 dark:bg-gray-900 md:px-20 lg:px-40">
         <section className="min-h-screen">
