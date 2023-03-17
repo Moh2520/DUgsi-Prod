@@ -3,7 +3,8 @@
 
 
 
-#########NOOOOOOORORRRRRR
+#########NOOOOOOORORRRRRR \n
+
 This the commonds that we need to push and pull for github  
 …or create a new repository on the command line
 echo "# DUgsi-Prod" >> README.md
